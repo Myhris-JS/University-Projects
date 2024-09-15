@@ -1,3 +1,4 @@
+# Laboratorium 1 (24.04.2024)
 ### Zadanie 1
 Stwórz wektor (np.array) składający się z pięciu dowolnych wartości liczbowych. Wyświetl utworzony wektor. Następnie, zmień liczbę na drugiej pozycji (nie pod indeksem 2, tylko na drugiej pozycji) na -1, a liczbę znajdującą się na pozycji czwartej powiększ dwa razy.
 
