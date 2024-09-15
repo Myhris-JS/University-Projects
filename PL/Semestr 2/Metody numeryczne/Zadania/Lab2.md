@@ -1,4 +1,4 @@
-# Laboratorium 2 (17.05.24)
+# Laboratorium 2 (17.05.2024)
 ### Zadanie 1
 Zaimplementować funkcję znajdującą pierwiastek podanej jako argument funkcji za pomocą metody połowienia.
 Poniżej jest pokazane przykładowe wywołanie zaimplementowanej funkcji w celu znalezienia pierwiastka funkcji
