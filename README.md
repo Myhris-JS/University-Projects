@@ -1,9 +1,9 @@
 # University Projects
-Available for review in two languages: Polish [PL] and English [Eng]
+(PL) Dostępne w dwóch językach: Polskim [PL] i Angielskim [Eng]
 
-(PL) Spis przedmiotów - podzielone na semestry.
-(ENG) List of subjects - divided by semesters.
-## PL
+(ENG) Available in two languages: Polish [PL] and English [Eng]
+
+## PL - Spis przedmiotów - podzielone na semestry.
 ### Semestr 1
 * Algorytmy i Struktury danych
 * Podstawy Programowania
@@ -12,5 +12,5 @@ Available for review in two languages: Polish [PL] and English [Eng]
 * Metody Numeryczne
 * Matematyka Dyskretna
 
-## ENG
+## ENG - List of subjects - divided by semesters.
 IN PROGRESS
