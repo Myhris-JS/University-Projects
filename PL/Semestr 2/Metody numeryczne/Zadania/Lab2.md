@@ -71,7 +71,7 @@ Rozbudować funkcjonalność funkcji z ***Zadania 1*** tak żeby była pokazywan
 
 Przykład takiej wizualizacji jest pokazany na Rysunku poniżej.
 <center>
-  <img src="https://drive.google.com/uc?export=view&id=10_dmMA1UCBS3PvY4yGB7vGEDvRBvuY8l"><br>
+  <img src="https://github.com/JordieMyhris/University-Projects/blob/729cc2b4444670443054b7e2ea2b8f06ff0711b6/PL/Semestr%202/Metody%20numeryczne/Zadania/Obrazki/lab2-2.jpg"><br>
   <b>Rysunek 1:</b> Przykładowa wizualizacja metody połowienia
 </center>
 
