@@ -108,7 +108,7 @@ Rozbudować funkcjonalność funkcji z Zadania 3 tak żeby była pokazywana wizu
 
 Przykład takiej wizualizacji jest pokazany na Rysunku poniżej.
 
-<center><img src="https://drive.google.com/uc?export=view&id=10Y-I2GUmOc9ZAW8jyfUcE1pLq2UDPbXM"><br>
+<center><img src="https://raw.githubusercontent.com/JordieMyhris/University-Projects/main/PL/Semestr%202/Metody%20numeryczne/Zadania/Obrazki/lab2-4.jpg"><br>
 <b>Rysunek 2: Przykładowa wizualizacja metody Newtona</center>
 
 
