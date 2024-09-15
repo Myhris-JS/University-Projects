@@ -13,4 +13,11 @@
 * Matematyka Dyskretna
 
 ## ENG - List of subjects - divided by semesters.
-IN PROGRESS
+TRANSLATION IN PROGRESS
+### Semester 1
+* Algorithms and Data Structures
+* Basics of Programming
+### Semester 2
+* Object-oriented Programming
+* Numerical Methods
+* Discrete Mathematics
