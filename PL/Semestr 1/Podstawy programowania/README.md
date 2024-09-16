@@ -1,10 +1,5 @@
-# Programming Basics
+# Podstawy programowania
+Przedmiot zostal zaliczony poprzez wykonanie zadań projektowych, które są dostępne jako "Projekt.pdf". Efektem wykonanania projektu były dwa pliki:
+> baza_danych.py
 
-The course was completed by working on project tasks, which are available as "Project.pdf". The outcome of the project resulted in two files:
-
-> database.py
-
-> functions.py
-
-
-
+> funkcje.py
